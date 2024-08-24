@@ -1,0 +1,9 @@
+FTDI notes:
+	-in programming mode: the jumber on the back should be on 5v note on 3v3
+	-connections: 
+		ftdi            espCAM
+                RX              U0T
+                TX              U0R
+                VCC (5V)        VCC (5v)
+                GND             GND
+		GND		IO0		
